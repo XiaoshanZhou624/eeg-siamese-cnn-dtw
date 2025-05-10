@@ -12,7 +12,7 @@ from tslearn.barycenters import (
 )
 
 # Load EEG Data
-df = pd.read_csv('被试2/0322-2-2-1_output_EEG_power_head_with_marker_3s.csv')
+df = pd.read_csv('/..')
 
 # Define parameters
 n = 24  # Number of time steps per sequence
